@@ -1,0 +1,1 @@
+Bu job Github repo uzerinde yapilan degisikliklerin belirli periyodlarla kontrol edilmesi sonrasinda eger repository de bir degisiklik varsa jenkins tarafindan calistirilacak
