@@ -1,1 +1,4 @@
 Bu kodun push edilmesiyle birlikte jenkins Github-Webhook-EU11 otomatik olarak calistirilacsak
+
+
+Degisiklik yaptim ve Github-Webhook-EU11 yine calistirilacak
